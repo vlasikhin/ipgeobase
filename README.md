@@ -1,4 +1,5 @@
-https://github.com/vlasikhin/ipgeobase/actions/workflows/main.yml/badge.svg
+
+[![Build](https://github.com/vlasikhin/ipgeobase/actions/workflows/main.yml/badge.svg)](https://github.com/vlasikhin/ipgeobase/actions/workflows/main.yml)
 
 # Ipgeobase
 
